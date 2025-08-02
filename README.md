@@ -1,6 +1,33 @@
-<h1>
- TIL_FrontEnd
-</h1>
+## 📍 TIL - FrontEnd
+
+#### 👋 Hi, there!
+
+> This repository is a collection of notes and summaries from my journey learning frontend development.
+> Here, I organize what I learn about core frontend technologies as well as React, one of the most widely used libraries in the frontend ecosystem.
+
+<br/>
+
+---
+
+### 🧩 Branch & Commit Convention
+
+#### 🌱 Branch Convention
+
+      Til/FE/[날짜]
+
+      ex) Til/FE/0801
+
+#### 💾 Commit Convention
+
+      Til/FE/[작업 내용][날짜]
+
+      ex) Til/FE/React[0801]
+
+<br/>
+
+---
+
+### 🗓️ Curriculum
 
 <table>
   <tr>
